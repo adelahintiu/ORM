@@ -1,0 +1,16 @@
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\ColectieMuzeeApp.exe.config
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\ColectieMuzeeApp.exe
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\ColectieMuzeeApp.pdb
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\EntityFramework.dll
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\EntityFramework.xml
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.csprojResolveAssemblyReference.cache
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.exe
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.pdb
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.Migrations.FirstMigration.resources
+c:\users\adela\documents\visual studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.csproj.GenerateResource.Cache
+C:\Users\Adela\Documents\Visual Studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.Migrations.Second.resources
+C:\Users\Adela\Documents\Visual Studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.Migrations.ThirdMigration.resources
+C:\Users\Adela\Documents\Visual Studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.Migrations.FourthMigration.resources
+C:\Users\Adela\Documents\Visual Studio 2015\Projects\ColectieMuzeeApp\ColectieMuzeeApp\obj\Debug\ColectieMuzeeApp.Migrations.InsertData.resources
